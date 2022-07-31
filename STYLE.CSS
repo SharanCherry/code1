@@ -1,0 +1,30 @@
+H1{
+    
+    text-align:center;
+}
+li{
+    display:inline;
+    margin;100px
+}
+ul{
+    list-style:none;
+}
+la{
+    color:black;
+    text-decoration:none;
+}
+li a:hover{
+    color:red;
+}
+pre{
+    color:#f7f5f5;
+}
+DIV{
+    margin-right: auto;
+}
+FOOTER{
+    BACKGROUD-COLOR:BLUE;
+    COLOR:rgb(54, 16, 16);
+    PADDING:5PX;
+    TEXT-ALIGN:CENTER;
+}
